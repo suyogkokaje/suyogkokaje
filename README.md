@@ -1,22 +1,26 @@
-<h1 align="center">Hello 👋, I'm Suyog</h1>
+<h1 align="center">Hello👋, I'm Suyog</h1>
+<h3 align="center">I'm a Competitive Programmer and a Full Stack Web-Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyogkokaje&label=Profile%20views&color=0e75b6&style=flat" alt="suyogkokaje" /> </p>
-
-## Connect with me:  
-<p align="left">
-<a href="https://linkedin.com/in/suyog-kokaje-bb54aa212" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/suyog_kokaje/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/kokajesuyog" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<p align="center">
+<img src='https://data.whicdn.com/images/54406285/original.gif' />
+</p>
+<p align="center">
+<img src='https://komarev.com/ghpvc/?username=suyogkokaje' />
+</p>
+<p align="center">
+<a href="https://linkedin.com/in/suyog-kokaje-bb54aa212" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:suyogkokaje6@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/KokajeSuyog" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-## CP Handles:
-<p align="left">
+<h3 align="center">CP Handles:</h3>
+<p align="center">
 <a href="https://codeforces.com/profile/tsubasa_otori" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 <a href="https://www.instagram.com/suyog_kokaje/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 <a href="https://twitter.com/kokajesuyog" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
 </p>
 
-## Languages and Tools:
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> 
